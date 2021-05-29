@@ -1,4 +1,4 @@
-# Analysis-of-2016-US-election-campaigns
+# Preprocessing-and-analysis-of-US-election-campaign-data 
 
 This is a simple analysis (after some necessary preprocessing) of the 2016 United States presidential election. It was done as the first project for the course "Applied Machine Learning" of Management Science and Technology Department of AUEB.
 
